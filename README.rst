@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+Read the Docs for Anix
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub repository is a place for the Anix Read the Docs to be kept in.
+https://anix.readthedocs.io
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Anix v0.4
