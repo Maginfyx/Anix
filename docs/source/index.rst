@@ -3,8 +3,7 @@ Welcome to Anix's documentation.
 
 Anix is a simple, easy-to-use Discord Bot that suits all of your needs.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out the :doc:`usage` section for further information.
 
 .. note::
 
@@ -16,4 +15,14 @@ Contents
 .. toctree::
 
    usage
-   api
+   
+Details
+--------
+
+Anix is a solo project made by Magi#1111. Updates may or not be released.
+
+Anix would have not been possible without the help of these libraries:
+
+- discord.py
+- discord-py-slash-commands
+- DiscordUtils and DiscordUtils[voice]
