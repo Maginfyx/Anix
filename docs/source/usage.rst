@@ -6,19 +6,25 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use Anix, invite it to your server.
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   https://dsc.gg/anix
 
-Creating recipes
+Setting Anix up for your server
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+Anix has a custom prefix command. This can be useful for setting up your own prefix in your server. 
+Mention ``@Anix`` in order to get the server's prefix.
 
-.. autofunction:: lumache.get_random_ingredients
+.. code-block:: console
+
+   ?setprefix
+   
+.. note::
+
+   Anix's default prefix is ``?``
 
 The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
 or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
